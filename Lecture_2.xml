@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MainNode>
+    <FirstInnerNode>TextInsideFirstInnerNode</FirstInnerNode>
+    <IterativeNode>
+        <Node1>TextInsideNode1_1</Node1>
+        <Node1>TextInsideNode1_2</Node1>
+        <Node1>TextInsideNode1_3</Node1>
+        <Node1>TextInsideNode1_4</Node1>
+        <SubNodeInsideNode1>
+            <Node1>TextInsideNode1_5</Node1>
+        </SubNodeInsideNode1>
+    </IterativeNode>
+</MainNode>

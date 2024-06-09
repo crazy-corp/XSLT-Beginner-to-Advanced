@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>Zorba the Greek</title>
+        <author>Nikos Kazantzakis</author>
+    </book>
+    <book>
+        <title>A Tale of Two Cities</title>
+        <author>Charles Dickens</author>
+    </book>
+    <book>
+        <title>Brave New World</title>
+        <author>Aldous Huxley</author>
+    </book>
+    <book>
+        <title>The Catcher in the Rye</title>
+        <author>J.D. Salinger</author>
+    </book>
+</library>

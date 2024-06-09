@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MainNode>
+    <Wrapper>
+        <FirstNode>First</FirstNode>
+        <SecondNode>Second</SecondNode>
+        <ThirdNode>third</ThirdNode>
+        <FourthNode>Fourth</FourthNode>
+        <FifthNode>Fifth</FifthNode>
+    </Wrapper>
+    <IterativeNode>
+        <ChildIterator>Child_1</ChildIterator>
+        <ChildIterator>Child_2</ChildIterator>
+        <ChildIterator>Child_3</ChildIterator>
+        <ChildIterator firstattribute="attr_1">Child_4</ChildIterator>
+        <ChildIterator firstattribute="attr_2">Child_5</ChildIterator>
+        <ChildIterator>Child_6</ChildIterator>
+        <ChildIterator secondattribute="attr_3">Child_7</ChildIterator>
+        <Unique>Unique1</Unique>
+        <Unique1>Unique2</Unique1>
+    </IterativeNode>
+</MainNode>

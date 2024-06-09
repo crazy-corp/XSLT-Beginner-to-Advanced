@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MainNode>
+    <Wrapper>
+        <FirstNode>FirstValue</FirstNode>
+        <SecondNode>Secondvalue</SecondNode>
+        <ThirdNode>thirdValue</ThirdNode>
+    </Wrapper>
+     <Wrapper>
+        <FirstNode>FirstValue1</FirstNode>
+        <SecondNode>SecondValue1</SecondNode>
+        <ThirdNode>thirdValue1</ThirdNode>
+     </Wrapper>
+</MainNode>

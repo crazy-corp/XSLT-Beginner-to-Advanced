@@ -1,0 +1,7 @@
+<ResultXml>
+   <AllChildElementsOfWrapper>FirstSecondthirdFourthFifth</AllChildElementsOfWrapper>
+   <AllChildElementsOfWrapper1>First,Second,third,Fourth,Fifth,</AllChildElementsOfWrapper1>
+   <AllChildElementsOfWrapper2>Fourth</AllChildElementsOfWrapper2>
+   <AllChildElementsOfWrapper3>FirstSecond</AllChildElementsOfWrapper3>
+   <MagicInsideIterativeNode>Child_7Child_6Child_1Child_4Child_5Unique2 - Unique1</MagicInsideIterativeNode>
+</ResultXml>
