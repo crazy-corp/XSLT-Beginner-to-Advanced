@@ -15,9 +15,9 @@
 		{
 			"type": "xslt-js",
 			"label": "default_build",
-			"xsltFile": "${workspaceFolder}/Lecture_7.xslt",
-			"xmlSource": "${workspaceFolder}/Lecture_7.xml",
-			"resultPath": "${workspaceFolder}/xsl-out/result7.xml",
+			"xsltFile": "${workspaceFolder}/Lecture_9.xslt",
+			"xmlSource": "${workspaceFolder}/Lecture_9.xml",
+			"resultPath": "${workspaceFolder}/xsl-out/result9.html",
 			"group": {
 				"kind": "build",
 				"isDefault": true
@@ -29,6 +29,19 @@
 		{
 			"type": "xslt-js",
 			"label": "xslt-js: Saxon-JS Transform (New)",
+			"xsltFile": "${command:xslt-xpath.pickXsltFile}",
+			"xmlSource": "${command:xslt-xpath.pickXmlSourceFile}",
+			"resultPath": "${workspaceFolder}/xsl-out/result1.xml",
+			"group": {
+				"kind": "build"
+			},
+			"problemMatcher": [
+				"$saxon-xslt-js"
+			]
+		},
+		{
+			"type": "xslt-js",
+			"label": "xslt-js: xslt-js: Saxon-JS Transform (New)",
 			"xsltFile": "${command:xslt-xpath.pickXsltFile}",
 			"xmlSource": "${command:xslt-xpath.pickXmlSourceFile}",
 			"resultPath": "${workspaceFolder}/xsl-out/result1.xml",
